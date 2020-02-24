@@ -1,0 +1,26 @@
+DNS fwd/rev mismatch: Astiag != www.mefeedia.com
+Astiag [127.0.0.1] 20 (ftp-data): connection refused
+Astiag [127.0.0.1] 21 (ftp): connection refused
+Astiag [127.0.0.1] 22 (ssh): connection refused
+Astiag [127.0.0.1] 23 (telnet): connection refused
+Astiag [127.0.0.1] 25 (smtp): connection refused
+Astiag [127.0.0.1] 53 (domain): connection refused
+Astiag [127.0.0.1] 67 (?): connection refused
+Astiag [127.0.0.1] 68 (?): connection refused
+Astiag [127.0.0.1] 69 (?): connection refused
+Astiag [127.0.0.1] 80 (http) open
+Astiag [127.0.0.1] 110 (pop3): connection refused
+Astiag [127.0.0.1] 123 (?): connection refused
+Astiag [127.0.0.1] 137 (netbios-ns): ACCES         
+Astiag [127.0.0.1] 138 (?): connection refused
+Astiag [127.0.0.1] 139 (netbios-ssn): connection refused
+Astiag [127.0.0.1] 143 (imap): connection refused
+Astiag [127.0.0.1] 161 (?): connection refused
+Astiag [127.0.0.1] 162 (?): connection refused
+Astiag [127.0.0.1] 179 (bgp): connection refused
+Astiag [127.0.0.1] 389 (ldap): connection refused
+Astiag [127.0.0.1] 443 (https): connection refused
+Astiag [127.0.0.1] 636 (ldaps): connection refused
+Astiag [127.0.0.1] 989 (ftps-data): connection refused
+Astiag [127.0.0.1] 990 (ftps): connection refused
+sent 0, rcvd 0: NOTSOCK       
